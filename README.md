@@ -3,17 +3,13 @@
 
 
 <p align="center">
-# Projeto EBOOK Gerado por I.A.s
+# Como organizar sua vida financeira com planilhas inteligentes e I.A.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
-
-<a href="https://github.com/mmsugimati/EBOOK/blob/main/EBOOK.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [SeaArt.AI](https://www.seaart.ai)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ## 🧠 Prompts
 
