@@ -18,8 +18,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | crie um título de um ebook sobre o tema de utilização do fgts na aquisição de imóvel. o e-book é para um público jovem e leigo no assunto, muito interessado em games e anime, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , listando os principais requisitos {REGRAS} para utilização do FGTS na aquisição de imóvel. Explique sempre de uma maneira simples e jovial. Deixe o texto enxuto, traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | utilize a tabela de gastos contida no documento acima , como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                        |
+| conteúdo | faça uma análise mais detalhada dos gastos, como uma soma total por categoria |
 
 
 ## 🛠️ Execução
