@@ -19,7 +19,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | utilize a tabela de gastos contida no documento acima , como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                        |
-| conteúdo | faça uma análise mais detalhada dos gastos, como uma soma total por categoria |
+| conteúdo | faça uma análise mais detalhada dos gastos, com uma soma total por categoria |
 
 
 ## 🛠️ Execução
