@@ -41,4 +41,4 @@ Utilizados os prompts acima nas ferramentas citadas para gerar o material base e
 <br/><br/>
 <p>
 
-[LINK PARA O DASHBOARD AQUI](https://github.com/mmsugimati/lab-natty-or-not/blob/main/202501151928.mp4)
+[LINK PARA O DASHBOARD AQUI](https://github.com/mmsugimati/Planilha-financeira/blob/main/planilha%20financeira.xlsx)
