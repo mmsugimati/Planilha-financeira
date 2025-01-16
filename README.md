@@ -9,7 +9,7 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/excel)
+- [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 ## 🧠 Prompts
 
